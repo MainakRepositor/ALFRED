@@ -1,5 +1,5 @@
-# Real-Time-Face-Detection
-Real Time Face and Emotion Detector using  Face api js
+# ALFRED
 
-## <a href='https://justadudewhohacks.github.io/face-api.js/docs/index.html'>Face api js</a>
-JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API (tensorflow/tfjs-core)
+### AI-based Landmarking system of Facial Realtime Emotion Detection
+
+This is an AI based system that works on Facial Landmarks and detects human emotion in Real-time from the webcam feed.
